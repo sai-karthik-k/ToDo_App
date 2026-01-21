@@ -55,6 +55,8 @@ flutter pub get
 flutter run
 ```
 ### Project Structure
+
+```bash
 lib/
 ├── home.dart       # Main UI screen for the ToDo list
 ├── main.dart       # Entry point of the app
@@ -62,7 +64,7 @@ lib/
 └── todo_item.dart  # Reusable widget for displaying a ToDo item
 test/
 └── widget_test.dart # Basic widget test
-
+```
 ### Resources & References
 
 - [Flutter Documentation](https://docs.flutter.dev/)  

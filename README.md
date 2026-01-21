@@ -37,18 +37,21 @@ Follow these instructions to set up and run the project locally:
 
 ```bash
 git clone https://github.com/sai-karthik-k/ToDo_App.git
-Navigate to the project directory:
-
+```
+2. Navigate to the project directory:
+```bash
 cd ToDo_App
+```
 
+3. Get the Flutter dependencies:
 
-Get the Flutter dependencies:
-
+```bash
 flutter pub get
+```
 
+4. Run the app:
 
-Run the app:
-
+```bash
 flutter run
 ```
 ### Project Structure
@@ -62,11 +65,7 @@ test/
 
 ### Resources & References
 
-Flutter Documentation
- – Tutorials, guides, and API reference
+- [Flutter Documentation](https://docs.flutter.dev/)  
+- [Flutter Codelabs](https://docs.flutter.dev/learn/pathway)  
+- [Flutter Cookbook](https://docs.flutter.dev/reference/learning-resources) 
 
-Flutter Codelabs
- – Learn Flutter step by step
-
-Flutter Cookbook
- – Useful Flutter examples
